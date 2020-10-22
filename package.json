@@ -1,0 +1,14 @@
+{
+   "name": "member-gateway",
+   "version": "1.0.0",
+   "description": "A simple swift plugin to manage an efficient per-member settings gateway.",
+   "license": "Unlicensed",
+   "author": "eternal",
+   "main": "src/index.js",
+   "peerDependencies": {
+      "swift": "slow/swift"
+   },
+   "engines": {
+      "node": ">=8.6.0"
+   }
+}
